@@ -19,17 +19,9 @@
 
 ---
 
-## 🧠 About Me
+💭 Full Stack & ML Engineer | Finance × AI
 
-```python
-aryan = {
-    "role"      : "Computer Engineering Undergrad @ PICT Pune (GPA: 8.37)",
-    "focus"     : ["Full Stack Engineering", "ML / AI", "Quant Finance"],
-    "experience": "Data Science Intern @ AlgoAnalytics (AlgoFabric)",
-    "building"  : "AI agents, pharma ML platforms & finance tools",
-    "location"  : "Pune, India 🇮🇳",
-}
-```
+Computer Engineering undergrad @ PICT Pune building at the intersection of **AI agents**, **quant finance**, and **end-to-end ML products**. Interested in LLM pipelines, explainable models, and turning data into decisions.
 
 ---
 
