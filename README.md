@@ -25,41 +25,6 @@ Computer Engineering undergrad @ PICT Pune building at the intersection of **AI 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔬 [FIRSTWAVE](https://github.com/Aryan2659) — GLP-1 Prescriber Intelligence Platform `2026`
-> *XGBoost · SHAP · Scikit-learn · React · TypeScript · FastAPI · Python · Docker · NetworkX · PageRank*
-
-- End-to-end pharma sales intelligence platform predicting early-adopter physicians for oral GLP-1 drugs across 800+ territories
-- **ROC-AUC 0.987 · PR-AUC 0.829 · 9.34× top-decile lift** validated via 5-fold cross-validation
-- Cox PH concordance of 0.749 for time-to-prescription; deployed via FastAPI + React 18 with full SHAP explainability
-
----
-
-### 🤖 [Domain-Aware Multi-Agent CX Bot](https://github.com/Aryan2659) `2024`
-> *Python · FastAPI · LangChain · Ollama (Llama 3.2) · FAISS · Redis · NetworkX*
-
-- Self-hosted multi-agent customer support platform routing queries to specialized billing, returns & escalation agents
-- Hybrid BM25 + vector retrieval + graph-based multi-hop reasoning grounded in policy documents
-- Promptfoo eval suite: **89.1% accuracy** across agents with hallucination detection & latency SLA enforcement
-
----
-
-### 🎓 [GuideU](https://github.com/Aryan2659) — JoSAA College Recommender `2024`
-> *Django DRF · Next.js · BeautifulSoup · Selenium · PostgreSQL*
-
-- Rank-aware college recommendation tool for JEE aspirants, scraping & visualizing 7+ years of JOSAA seat allotment data
-- Interactive branch popularity trends, opening/closing ranks, and student flow across all IITs
-
----
-
-## 💼 Experience
-
-**Data Science Intern — AlgoAnalytics (AlgoFabric)** `Sep 2025 – Mar 2026`
-- Built a conversational AI agent for finance professionals: NL → structured market-data lookups, stock screens & strategy backtests with automated chart generation
-- Built a 1,000-tree Random Forest forecaster for NIFTY 50 daily close direction using OHLCV + RSI/MACD features — **+7pp over 48% baseline** via walk-forward time-series cross-validation
-
----
 
 ## 🛠️ Tech Stack
 
