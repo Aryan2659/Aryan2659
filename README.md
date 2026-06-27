@@ -88,25 +88,4 @@ Computer Engineering undergrad @ PICT Pune building at the intersection of **AI 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan2659&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan2659&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan2659&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan2659/Aryan2659/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan2659/Aryan2659/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Aryan2659/Aryan2659/output/snake.svg">
-</picture>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Aryan2659/count.svg?" />
-</div>
