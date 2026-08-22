@@ -21,7 +21,7 @@
 
 💭 Full Stack & ML Engineer | Finance × AI
 
-Computer Engineering undergrad @ PICT Pune building at the intersection of **AI agents**, **quant finance**, and **end-to-end ML products**. Interested in LLM pipelines, explainable models, and turning data into decisions.
+Computer Engineering undergrad @ PICT Pune building at the intersection of **AI agents**, **finance**, and **Computer Network**. Interested in LLM pipelines, explainable models, and turning data into decisions.
 
 ---
 
